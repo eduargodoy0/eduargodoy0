@@ -101,7 +101,7 @@ Olá! Me chamo Eduar Godoy, tenho 19 anos, no momento estou trabalhando como Ana
 ### 📊 Minhas Estatísticas
 
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img 
@@ -119,4 +119,5 @@ Olá! Me chamo Eduar Godoy, tenho 19 anos, no momento estou trabalhando como Ana
     </td>
   </tr>
 </table>
+
 

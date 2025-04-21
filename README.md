@@ -101,23 +101,21 @@ Olá! Me chamo Eduar Godoy, tenho 19 anos, no momento estou trabalhando como Ana
 ### 📊 Minhas Estatísticas
 
 
-<p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=eduargodoy0&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+/>
 
- <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduargodoy0&layout=compact&theme=dark&locale=pt-br&langs_count=9" 
- />
-</p>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduargodoy0&layout=compact&theme=dark&locale=pt-br&langs_count=7" 
+/>
 
 
 

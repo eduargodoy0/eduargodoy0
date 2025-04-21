@@ -101,8 +101,6 @@ Olá! Me chamo Eduar Godoy, tenho 19 anos, no momento estou trabalhando como Ana
 ### 📊 Minhas Estatísticas
 
 
-### 📊 Minhas Estatísticas
-
 <img src="https://github-readme-stats.vercel.app/api?username=eduargodoy0&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" height="200"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduargodoy0&layout=compact&theme=dark&locale=pt-br&langs_count=7" height="200">
 
 

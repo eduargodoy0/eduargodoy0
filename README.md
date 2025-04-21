@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Eduar Godoy
+#  Eduar Godoy
 
 Olá! Me chamo Eduar Godoy, tenho 19 anos, no momento estou trabalhando como Analista de T.I. Concluí o ensino médio no CEPB, com o curso Técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Buscando adquirir e aprimorar minhas softskills e hardskills.
 
@@ -28,7 +28,7 @@ Olá! Me chamo Eduar Godoy, tenho 19 anos, no momento estou trabalhando como Ana
 
 ---
 
-### 🖥️ Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -98,7 +98,7 @@ Olá! Me chamo Eduar Godoy, tenho 19 anos, no momento estou trabalhando como Ana
 <br/>
 <br/>
 
-### 📊 Minhas Estatísticas
+###  Minhas Estatísticas
 
 
 <p>
